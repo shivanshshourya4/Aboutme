@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
+
+
+
+
+
+.introduction{
+    text-align: left
+}
+
+
+.img1{
+    height: 80px;
+    width: 80px;
+}
+
+.div_hobby_pic{
+ text-align: left;
+}
+
+.games{
+    text-align: left;
+}
